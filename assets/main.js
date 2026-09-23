@@ -23,7 +23,7 @@ var P = [
   outcome:["A flexible logo suite, colour palette, type treatments, poster and merchandise design, tone of voice guidance and a responsive Shopify storefront. Cohesive but adaptable, connecting community, commerce and culture."],
   notes:[["Client","Dream Street Records, Brighton"],["Role","Creative strategy and co-art direction"],["Skills","Brand strategy, art direction, retail UX, visual storytelling, digital commerce, co-creation, typography, Shopify"]],
   imgs:[["p5_logos.png","Logo suite: main and reversed","w2 bare"],["p5_35.jpg","Brand pattern and logo lock-up","w4"],["p5_40.jpg","Shopify storefront, desktop","w6"],["p5_37.jpg","Mobile storefront screens","w6"],["p5_39.jpg","Poster and postcard","w4"],["p5_33.jpg","Shopfront in Brighton","w2"],["p5_guidelines.jpg","Brand guidelines","w6"]]},
-
+ 
 {id:"finding-power", type:"Campaign Identity", client:"Free Word Centre", title:"Finding Power",
   tags:["Campaign","Identity","Illustration"], thumb:"p7_65.jpg",
   change:"Gave a season about power and voice an identity loud enough to take over a London street, and flexible enough to survive a pandemic rewrite.",
@@ -34,7 +34,7 @@ var P = [
   outcome:["A hand-drawn aesthetic on a high-contrast monochrome base with a highlighter-yellow accent, used across banners, email headers, posters, social content, printed programmes and a building takeover.","When COVID restrictions changed the programme, the identity adapted quickly with an “In isolation” stamp."],
   notes:[["Client","Free Word Centre, London"],["Year","2019–2020"],["Skills","Campaign identity, cross-format design, creative direction, concept development, visual storytelling, fast-turnaround production"]],
   imgs:[["p7_64.jpg","Web banner","w6"],["p7_65.jpg","Colourway: magenta","w2"],["p7_66.jpg","Colourway: cyan","w2"],["p7_67.jpg","Colourway: yellow","w2"],["p7_69.jpg","Promotional image for Liv Wynter’s talk","w4"],["p7_68.jpg","Vinyl for the “Breathing Room” installation","w2"],["p7_70.jpg","Title card for Travis Alabanza’s event","w3"],["p7_71.jpg","Speaking Under Surveillance","w3"],["p8_78.jpg","Window vinyl, on site","w3"],["p8_79.jpg","Building takeover","w3"]]},
-
+ 
 {id:"inclusive-mosque", type:"Identity & Web Design", client:"Inclusive Mosque Initiative", title:"Inclusive Mosque Initiative",
   tags:["Identity","Digital"], thumb:"p6_55.jpg",
   change:"One flexible brand that speaks softly to the community and clearly to funders, across sub-brands, events and the web.",
@@ -44,7 +44,7 @@ var P = [
   outcome:["Logotypes, sub-brand marks, a cohesive visual system and a comprehensive brand manual for rollout. The work has supported campaign growth and a wider audience across multiple channels."],
   notes:[["Client","Inclusive Mosque Initiative (IMI)"],["Skills","Brand systems, creative leadership, stakeholder management, design documentation, digital-first branding"]],
   imgs:[["p6_57.jpg","Website","w6"],["p6_55.jpg","Stationery","w3"],["p6_56.jpg","Brand manual","w3"],["p6_58.jpg","Brand in use","w6"],["p6_61.jpg","Event poster: Inclusive Halaqa","w3"],["p6_60.jpg","Event poster: Muharram Majlis","w3"]]},
-
+ 
 {id:"words-that-stick", type:"Interactive Installation", client:"Science Gallery London", title:"Words that Stick",
   tags:["Installation","Illustration","Motion"], thumb:"p11_101.jpg",
   change:"Turned a conversation about gendered language into something visitors could physically take home, and keep coming back for.",
@@ -55,7 +55,7 @@ var P = [
   outcome:["A series of sticker dispensers (“words that stick”) that changed over time, linked to evolving definitions of gendered words.","The stickers were refreshed throughout the exhibition to bring people back and deepen what they learned, supported by an evolving animation."],
   notes:[["Commissioned by","Science Gallery London"],["Skills","Installation design, animation, storyboarding, interaction mapping, graphics direction, public engagement, prototyping"]],
   imgs:[["p11_101.jpg","Sticker pattern system","w6"],["p11_102.jpg","The installation at Science Gallery London","w3"],["p12_110.jpg","Identity mark and patterns","w3 bare"],["p12_112.jpg","Production and installation","w3"],["p12_113.jpg","Installing the stickers","w3"]]},
-
+ 
 {id:"play-packs", type:"Animation", client:"The Barbican", title:"Play Packs Report",
   tags:["Motion","Campaign"], thumb:"PlayPacks_1.jpg",
   change:"Turned an end-of-project evaluation report into a short animated story, so the findings reach people who would never open the PDF.",
@@ -67,7 +67,7 @@ var P = [
   video:"",
   notes:[["Client","Barbican, Communities and Neighbourhoods"],["Voiceover","Soofiya"],["Participant voiceover","Flo Lowe"],["Music","Scott Holmes"],["Skills","Frame-by-frame animation, storyboarding, narrative, information design"]],
   imgs:[["PlayPacks_4.jpg","Animation still","w6"],["PlayPacks_1.jpg","Animation still","w2"],["PlayPacks_2.jpg","Animation still","w2"],["PlayPacks_3.jpg","Animation still","w2"], ["PlayPacks_5.jpg","Animation still","w2"], ["PlayPacks_6.jpg","Animation still","w2"]]},
-
+ 
 {id:"photographers-gallery", type:"Wayfinding Signage", client:"Photographer’s Gallery", title:"Gender Inclusive Signage",
   tags:["Wayfinding","Identity"], thumb:"p4_12.jpg", thumbFit:true,
   change:"Replaced binary toilet signs with a modular icon system that reflects multitudes, installed across a major London gallery.",
@@ -78,7 +78,7 @@ var P = [
   outcome:["A modular system of playful, character-based icons designed to be recombined across the gallery’s doors and floors: functional and culturally resonant, taken from concept to a real-world experience."],
   notes:[["Client","The Photographer’s Gallery, London"],["Role","Lead designer"],["Skills","Visual identity, UX for physical space, stakeholder management, accessibility, inclusive design, icon design, art direction"]],
   imgs:[["p4_12.jpg","Primary signage lock-up","w3 mat"],["p4_13.jpg","The full icon set","w3 mat"],["p4_14.jpg","Installed on site","w2"],["p4_16.jpg","On site","w2"],["p4_15.jpg","On site","w2"]]},
-
+ 
 {id:"hospice-uk", type:"Publication Design", client:"Hospice UK", title:"Trans & Gender Diverse Inclusion Handbook",
   tags:["Publishing","Wayfinding"], thumb:"p10_93.jpg",
   change:"Turned dense policy into a warm, readable handbook used across the hospice sector to make end-of-life care more inclusive for trans and gender-diverse people.",
@@ -88,7 +88,7 @@ var P = [
   outcome:["A well-paced, clearly structured resource used across the hospice sector. It balances a professional tone with accessible language and layout, and supports teams to build more inclusive practices."],
   notes:[["Client","Hospice UK"],["Skills","Editorial design, layout, icon design, working within brand constraints, inclusion-focused comms, InDesign"]],
   imgs:[["p10_93.jpg","Cover and spread","w6"],["p10_97.jpg","Spread with question callouts","w3"],["p10_95.jpg","Section openers","w3"]]},
-
+ 
 {id:"mapping-south-london", type:"Interactive Installation", client:"South London Gallery", title:"Mapping South London",
   tags:["Installation","Participatory"], thumb:"slg-1.jpg",
   change:"Gave gallery visitors a playful way to put their own South London on the map, and to see everyone else’s.",
@@ -98,7 +98,7 @@ var P = [
   outcome:["Mapping South London: a playful interactive map where visitors pinned their ideas, thoughts and experiences of South London."],
   notes:[["Commissioned by","South London Gallery"],["Photography","Sam Nightingale"]],
   imgs:[["slg-1.jpg","The map in the gallery","w6"],["slg-4.jpg","Visitors pinning the map","w3"],["slg-5.jpg","Detail","w3"],["slg-4.jpg","Detail","w6"],["slg-3.jpg","Detail","w6"]]},
-
+ 
 {id:"making-space", type:"Publication Design", client:"Maslaha", title:"Making Space for Healing",
   tags:["Publishing","Illustration"], thumb:"p9_86.jpg",
   change:"Made mental health guidance feel gentle and easy to navigate for young Muslim girls, without a single photograph.",
@@ -108,7 +108,7 @@ var P = [
   outcome:["A fully illustrated, tactile zine that guides readers through exercises and content with rhythm and sensitivity, combining a clear content hierarchy with an emotional visual language."],
   notes:[["Client","Maslaha: Muslim Girls Fence"],["Skills","Accessible resource design, typography systems, hand-drawn illustration, information design, print"]],
   imgs:[["p9_86.jpg","Cover pattern","w6"],["p9_88.jpg","Spread","w3"],["p9_85.jpg","Spread","w3"],["p9_87.jpg","Spread","w3"],["p9_89.jpg","Spread","w3"]]},
-
+ 
 {id:"soof-sans", type:"Typeface Design", client:"Soof Sans", title:"Soof Sans",
   tags:["Typography"], thumb:"soofsans1.jpg", tester:true,
   change:"My party trick: my own typeface, making my own typefaces. Type in the box on this page to try it.",
@@ -118,13 +118,13 @@ var P = [
   outcome:["Soof Sans has upper and lower case and a clean, hand-lettered feel that can bring a poster or project to life."],
   notes:[["Design","Soofiya"],["Skills","Type design, lettering"]],
   imgs:[["soofsans5.jpg","Soof Sans","w6"],["soofsans1.jpg","In use","w2"],["soofsans2.jpg","In use","w2"],["soofsans3.jpg","In use","w2"]]}
-
+ 
 ];
 var TAGS=["All","Campaign","Identity","Installation","Publishing","Motion","Digital","Wayfinding","Typography"];
-
+ 
 var $=function(s,r){return (r||document).querySelector(s)};
 var b=document.body, filter="All";
-
+ 
 function esc(s){return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/"/g,"&quot;")}
 function paras(a){return a.map(function(t){return "<p>"+esc(t)+"</p>"}).join("")}
 function missing(file){return '<div class="missing"><div><b>✎</b>Add img/'+esc(file)+'</div></div>'}
@@ -137,7 +137,7 @@ window.imgMissing=function(img){
 function pic(file,alt,cls){return '<img src="img/'+file+'" data-file="'+esc(file)+'" alt="'+esc(alt)+'" loading="lazy"'+(cls?' class="'+cls+'"':'')+' onerror="imgMissing(this)">'}
 function plates(list){return list.map(function(im){
   return '<figure class="plate '+(im[2]||"")+'" tabindex="0" data-src="img/'+im[0]+'" data-cap="'+esc(im[1])+'">'+pic(im[0],im[1])+'<figcaption>'+esc(im[1])+'</figcaption></figure>';}).join("")}
-
+ 
 /* ---- project panel ---- */
 function renderHome(){
   $("#filters").innerHTML=TAGS.map(function(t){return '<button type="button" class="button sm" aria-pressed="'+(t===filter)+'" data-f="'+t+'">'+t+'</button>'}).join("");
@@ -150,7 +150,7 @@ function renderHome(){
   }).join("");
 }
 $("#filters").addEventListener("click",function(e){var t=e.target.closest("[data-f]");if(!t)return;filter=t.dataset.f;renderHome();});
-
+ 
 /* ---- project page ---- */
 var sec=0;
 function coll(label,arrow,open,inner){
@@ -181,12 +181,12 @@ document.addEventListener("click",function(e){
 $("#v-project").addEventListener("click",function(e){
   var f=e.target.closest(".plate");if(f&&!f.classList.contains("is-missing"))openLb(f);
 });
-
+ 
 /* ---- hash router: #home, #info, #now, #<project-id> ---- */
 function route(){
   var id=(location.hash||"#home").slice(1)||"home";
   var p=P.filter(function(x){return x.id===id})[0];
-  var view=p?"project":(["home","info","now"].indexOf(id)>-1?id:"home");
+  var view=p?"project":(["home","info","now","letter"].indexOf(id)>-1?id:"home");
   if(p) renderProject(p);
   document.querySelectorAll(".view").forEach(function(v){v.classList.toggle("on",v.id==="v-"+view)});
   document.querySelectorAll("[data-nav]").forEach(function(a){
@@ -198,7 +198,7 @@ function route(){
 }
 window.addEventListener("hashchange",route);
 renderHome(); route();
-
+ 
 /* ---- colour themes (blue / pink / orange) ---- */
 function setTheme(t){
   document.documentElement.className=t;
@@ -207,10 +207,10 @@ function setTheme(t){
 }
 document.querySelectorAll(".dot").forEach(function(d){d.addEventListener("click",function(){setTheme(d.dataset.theme)})});
 setTheme(document.documentElement.className||"blue");
-
+ 
 /* ---- snow ---- */
 $("#snowBtn").addEventListener("click",function(){var s=$("#snow");s.hidden=!s.hidden;this.setAttribute("aria-pressed",!s.hidden)});
-
+ 
 /* ---- grid overlay (button or G key) ---- */
 function setGrid(on){b.classList.toggle("show-grid",on);$("#gridBtn").setAttribute("aria-pressed",on)}
 $("#gridBtn").addEventListener("click",function(){setGrid(!b.classList.contains("show-grid"))});
@@ -220,7 +220,7 @@ document.addEventListener("keydown",function(e){
   if((e.key==="g"||e.key==="G")&&!e.metaKey&&!e.ctrlKey&&!e.altKey)setGrid(!b.classList.contains("show-grid"));
   if(e.key==="Enter"&&e.target.classList&&e.target.classList.contains("plate"))openLb(e.target);
 });
-
+ 
 /* ---- the 2px nudge ---- */
 var nudged=false;
 $("#nudgeBtn").addEventListener("click",function(){
@@ -229,7 +229,7 @@ $("#nudgeBtn").addEventListener("click",function(){
   $("#nudgeSt").textContent=nudged?"It's aligned now!":"Line two is 2px off the guide";
      this.textContent=nudged?"Misalgin again":"Nudge 2px ←";
 });
-
+ 
 /* ---- lightbox ---- */
 var lbList=[],lbI=0;
 function openLb(fig){lbList=[].slice.call($("#v-project").querySelectorAll(".plate:not(.is-missing)")).filter(function(f){return !f.closest("[hidden]")});lbI=Math.max(0,lbList.indexOf(fig));showLb();$("#lb").hidden=false;$("#lbClose").focus();}
@@ -240,3 +240,4 @@ $("#lbClose").addEventListener("click",closeLb);
 $("#lbPrev").addEventListener("click",function(){stepLb(-1)});
 $("#lbNext").addEventListener("click",function(){stepLb(1)});
 $("#lb").addEventListener("click",function(e){if(e.target.id==="lb")closeLb();});
+
