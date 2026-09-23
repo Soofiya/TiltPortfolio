@@ -1,4 +1,4 @@
-/* Soofiya — portfolio
+/* Soofiya â€” portfolio
    Styled after the Studio Soof site: Inter, 1px bordered boxes that invert
    on hover, collapsible sections, and three colour themes. */
 
@@ -125,7 +125,7 @@ body.nudged .hero h1 .off{transform:none}
 .content .cols > div{max-width:62ch}
 @media (max-width:760px){.content .cols{grid-template-columns:1fr}}
 .content ul li{padding-left:1.1em;position:relative}
-.content ul li::before{content:"➜";position:absolute;left:0;font-size:.8em;top:.15em}
+.content ul li::before{content:"âžœ";position:absolute;left:0;font-size:.8em;top:.15em}
 .content ul li + li{margin-top:.4em}
 .content a{border-bottom:1px solid var(--text);padding-bottom:1px}
 .content a:hover{border-bottom-style:dashed}
@@ -159,6 +159,8 @@ body.nudged .hero h1 .off{transform:none}
 
 /* ---------- info + now ---------- */
 .page{border:1px solid var(--border);padding:clamp(14px,2vw,24px)}
+.letter{max-width:68ch;margin-top:6px}
+.letter p{line-height:1.6}
 .page > h1{font-size:26px;line-height:29px;letter-spacing:.05em;padding-bottom:6px}
 .page > .ptype{display:block;margin-bottom:24px}
 .cv-intro{max-width:70ch}
