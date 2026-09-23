@@ -90,7 +90,7 @@ var P = [
   imgs:[["p10_93.jpg","Cover and spread","w6"],["p10_97.jpg","Spread with question callouts","w3"],["p10_95.jpg","Section openers","w3"]]},
 
 {id:"mapping-south-london", type:"Interactive Installation", client:"South London Gallery", title:"Mapping South London",
-  tags:["Installation","Participatory"], thumb:"slg_1.jpg",
+  tags:["Installation","Participatory"], thumb:"slg-1.jpg",
   change:"Gave gallery visitors a playful way to put their own South London on the map, and to see everyone else’s.",
   brief:["Create an interactive installation that lets visitors share and reflect on the parts of South London that are important to them."],
   challenges:[],
