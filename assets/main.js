@@ -226,7 +226,7 @@ var nudged=false;
 $("#nudgeBtn").addEventListener("click",function(){
   nudged=!nudged;b.classList.toggle("nudged",nudged);
   $("#redline").textContent=nudged?"0px":"+2px";
-  $("#nudgeSt").textContent=nudged?"Aligned. Defended in a meeting, if necessary.":"Line two is 2px off the guide. Spot it?";
+  $("#nudgeSt").textContent=nudged?"Its aligned now!":"Line two is 2px off the guide";
   this.textContent=nudged?"Undo (please don’t)":"Nudge 2px ←";
 });
 
