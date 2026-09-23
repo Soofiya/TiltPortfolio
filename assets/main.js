@@ -114,10 +114,10 @@ var P = [
   change:"My party trick: my own typeface, making my own typefaces. Type in the box on this page to try it.",
   brief:["Create a working font with playful and charachterful letterforms that still clear and legiable."],
   challenges:[],
-  dev:{text:["From hand-drawn sketches to digitised letterforms."],imgs:[["soofsans_sketch.jpg","Letterform sketches","w3"],["soofsans_sketch2.jpg","Letterform sketches","w3"]]},
+  dev:{text:["From hand-drawn sketches to digitised letterforms."],imgs:[["soofsans4.jpg","Letterform sketches","w3"]]},
   outcome:["Soof Sans has upper and lower case and a clean, hand-lettered feel that can bring a poster or project to life."],
   notes:[["Design","Soofiya"],["Skills","Type design, lettering"]],
-  imgs:[["soofsans1.jpg","Soof Sans","w6"],["soofsans1.jpg","In use","w2"],["soofsans2.jpg","In use","w2"],["soofsans3.jpg","In use","w2"]["soofsans5.jpg","In use","w2"]]}
+  imgs:[["soofsans5.jpg","Soof Sans","w6"],["soofsans1.jpg","In use","w2"],["soofsans2.jpg","In use","w2"],["soofsans3.jpg","In use","w2"]]}
 
 ];
 var TAGS=["All","Campaign","Identity","Installation","Publishing","Motion","Digital","Wayfinding","Typography"];
