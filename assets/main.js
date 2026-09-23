@@ -226,8 +226,8 @@ var nudged=false;
 $("#nudgeBtn").addEventListener("click",function(){
   nudged=!nudged;b.classList.toggle("nudged",nudged);
   $("#redline").textContent=nudged?"0px":"+2px";
-  $("#nudgeSt").textContent=nudged?"Its aligned now!":"Line two is 2px off the guide";
-  this.textContent=nudged?"Undo (please don’t)":"Nudge 2px ←";
+  $("#nudgeSt").textContent=nudged?"It's aligned now!":"Line two is 2px off the guide";
+     this.textContent=nudged?"Misalgin again":"Nudge 2px ←";
 });
 
 /* ---- lightbox ---- */
