@@ -94,10 +94,10 @@ var P = [
   change:"Gave gallery visitors a playful way to put their own South London on the map, and to see everyone else’s.",
   brief:["Create an interactive installation that lets visitors share and reflect on the parts of South London that are important to them."],
   challenges:[],
-  dev:{text:["Sketches and development."],imgs:[["slg_2.jpg","Sketches and development","w3"],["slg-1.jpg","Development","w3"]]},
+  dev:{text:["Sketches and development."],imgs:[["slg-2.jpg","Sketches and development","w3"],["slg-1.jpg","Development","w3"]]},
   outcome:["Mapping South London: a playful interactive map where visitors pinned their ideas, thoughts and experiences of South London."],
   notes:[["Commissioned by","South London Gallery"],["Photography","Sam Nightingale"]],
-  imgs:[["slg-1.jpg","The map in the gallery","w6"],["slg_4.jpg","Visitors pinning the map","w3"],["slg-5.jpg","Detail","w3"],["slg-4.jpg","Detail","w6"]["slg-3.jpg","Detail","w6"]]},
+  imgs:[["slg-1.jpg","The map in the gallery","w6"],["slg-4.jpg","Visitors pinning the map","w3"],["slg-5.jpg","Detail","w3"],["slg-4.jpg","Detail","w6"]["slg-3.jpg","Detail","w6"]]},
 
 {id:"making-space", type:"Publication Design", client:"Maslaha", title:"Making Space for Healing",
   tags:["Publishing","Illustration"], thumb:"p9_86.jpg",
@@ -117,7 +117,7 @@ var P = [
   dev:{text:["From hand-drawn sketches to digitised letterforms."],imgs:[["soofsans_sketch.jpg","Letterform sketches","w3"],["soofsans_sketch2.jpg","Letterform sketches","w3"]]},
   outcome:["Soof Sans has upper and lower case and a clean, hand-lettered feel that can bring a poster or project to life."],
   notes:[["Design","Soofiya"],["Skills","Type design, lettering"]],
-  imgs:[["soofsans.jpg","Soof Sans","w6"],["soofsans1.jpg","In use","w2"],["soofsans2.jpg","In use","w2"],["soofsans3.jpg","In use","w2"]]}
+  imgs:[["soofsans1.jpg","Soof Sans","w6"],["soofsans1.jpg","In use","w2"],["soofsans2.jpg","In use","w2"],["soofsans3.jpg","In use","w2"]["soofsans5.jpg","In use","w2"]]}
 
 ];
 var TAGS=["All","Campaign","Identity","Installation","Publishing","Motion","Digital","Wayfinding","Typography"];
