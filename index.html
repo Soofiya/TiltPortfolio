@@ -1,0 +1,212 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Soofiya — Design Portfolio</title>
+<meta name="description" content="Soofiya is a Brighton-based designer working across campaign, identity, installation, publishing, animation and digital.">
+<meta property="og:title" content="Soofiya — Design Portfolio">
+<meta property="og:description" content="Campaigns, identities, installations and publications, shown with the working left in.">
+<meta property="og:image" content="img/p7_64.jpg">
+<link rel="icon" type="image/png" href="img/studio-soof.png">
+<script>try{var c=localStorage.getItem("color");if(c)document.documentElement.className=c}catch(e){}</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,400;0,500;0,600;1,400&display=swap">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<!--BODY-->
+<div class="gridlay" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div>
+
+<nav class="topnav" aria-label="Main">
+  <div class="l"><a class="button" href="#info" data-nav="info">About</a></div>
+  <a class="logo" href="#home">Soofiya</a>
+  <div class="r"><a class="button" href="#home" data-nav="home">Work</a><a class="button" href="#now" data-nav="now">Thoughts on AI</a></div>
+</nav>
+
+<main>
+  <!-- WORK -->
+  <div class="view" id="v-home">
+    <p class="disciplines">Communication Design<span class="spin" aria-hidden="true">✎</span>Visual Identity<span aria-hidden="true">✸</span>Interactive Installation<span aria-hidden="true">➜</span>Typography &amp; Layout<span aria-hidden="true">✽</span>Web Design<span aria-hidden="true">➹</span>Animation<span class="spin" aria-hidden="true">☻</span>Book Design</p>
+
+    <div class="hero">
+      <div class="hl">
+        <span class="guide" aria-hidden="true"></span>
+        <h1 aria-label="I will move it two pixels left. And tell you why.">
+          <span class="ln">I will move it</span>
+          <span class="redline" id="redline" aria-hidden="true">+2px</span>
+          <span class="ln off">two pixels left.</span>
+          <span class="ln">And tell you why.</span>
+        </h1>
+      </div>
+      <div class="intro">
+        <p>I’m a Brighton-based designer and lecturer. I design things that help people see something differently, then do something about it: a campaign for a season about power and voice, an animation that brings an evaluation report to life, signage that makes a gallery more welcoming. Over a decade across agencies, my own studio and teaching. The running heads get the same care as the poster.</p>
+        <div class="nudge">
+          <button class="button" id="nudgeBtn" type="button">Nudge 2px ←</button>
+          <span class="st" id="nudgeSt" aria-live="polite">Line two is 2px off the guide. Spot it?</span>
+        </div>
+      </div>
+    </div>
+
+    <section class="tiltnote" aria-label="Note for We Are Tilt">
+      <span class="kicker">This was made for Tilt ✎</span>
+      <p>I’d love to join your team as a Designer. I built this site around my application: the projects below are the ones closest to the way you brief and make, and “How I work” further down is written the same way. If there’s something you’d want to see that isn’t here, just ask.</p>
+    </section>
+
+    <div class="panelhead">
+      <h2>Selected Projects</h2>
+      <div class="filters" role="group" aria-label="Filter projects" id="filters"></div>
+    </div>
+    <section class="projectpanel" id="panel" aria-label="Projects"></section>
+
+    <section class="how" aria-labelledby="how-h">
+      <h4 id="how-h">How I work</h4>
+      <ol>
+        <li><h3>Start with the story ➜</h3><p>Who needs to think, feel or act differently, and what would make them? Every project here started with that question and people at the centre</p></li>
+        <li><h3>Come at it sideways ✎</h3><p>A sticker dispenser for a talk about language. New icons systme, a fun 80s brand. The unexpected route is often the one people remember.</p></li>
+        <li><h3>Make the thing ✄</h3><p>I’d rather prototype than present a deck about a prototype. I sketch, build and test early, and share the work while it’s still rough.</p></li>
+        <li><h3>Built to last ➷</h3><p>Brand manuals, templates and InDesign styles, so the work holds up after launch day when someone else has to use it.</p></li>
+      </ol>
+    </section>
+  </div>
+
+  <!-- PROJECT -->
+  <div class="view" id="v-project"></div>
+
+  <!-- ABOUT / INFO -->
+  <div class="view" id="v-info">
+    <div class="page">
+      <h1>About</h1>
+      <span class="ptype">Designer + Lecturer, Brighton</span>
+      <div class="cv-intro">
+        <h4>Designer + Lecturer</h4>
+        <p>I’m a Brighton-based multidisciplinary designer and lecturer with over a decade of experience across brand, campaign, print and digital design.</p>
+        <p>Through my studio, Studio Soof, I work on art direction, identities, publications, exhibitions, signage and digital, mostly for the arts and culture sector.</p>
+        <p>I’ve worked in agencies, in-house, freelance and as a consultant, which has given me a versatile, adaptable approach to fast-paced creative work.</p>
+        <p>I love working in teams: supporting  and junior creatives, helping steer projects, sharing work early and acting on feedback.</p>
+      </div>
+
+      <p class="cvhint">Click a heading to open it.</p>
+      <div class="cvgrid">
+        <div class="cvtile">
+          <button class="collapsible" type="button" aria-expanded="false" aria-controls="cv-visual"><span>Visual Design</span><span class="arrow turn" aria-hidden="true">➜</span></button>
+          <div class="content" id="cv-visual" hidden>
+            <ul><li>Typography &amp; type design</li><li>Visual research</li><li>Illustration <span class="it">(including style adaptation)</span></li><li>Layout &amp; composition</li><li>Iconography</li><li>Publishing</li><li>Print production</li><li>Motion graphics</li><li>Frame-by-frame animation</li></ul>
+          </div>
+        </div>
+        <div class="cvtile">
+          <button class="collapsible" type="button" aria-expanded="false" aria-controls="cv-brand"><span>Brand &amp; Digital</span><span class="arrow turn" aria-hidden="true">➜</span></button>
+          <div class="content" id="cv-brand" hidden>
+            <ul><li>Brand systems</li><li>Campaign asset design</li><li>Digital-first storytelling</li><li>Web design &amp; development <span class="it">(HTML, CSS, JavaScript)</span></li><li>Interactive installation</li><li>Art direction across digital and print</li><li>Content for social platforms</li></ul>
+          </div>
+        </div>
+        <div class="cvtile">
+          <button class="collapsible" type="button" aria-expanded="false" aria-controls="cv-lead"><span>Leadership &amp; Strategy</span><span class="arrow turn" aria-hidden="true">➜</span></button>
+          <div class="content" id="cv-lead" hidden>
+            <ul><li>Creative direction</li><li>Design strategy</li><li>Curation &amp; exhibition narrative</li><li>Project scoping &amp; delivery</li><li>Managing &amp; mentoring teams</li><li>Workshop facilitation</li><li>Judging &amp; speaking at industry events</li></ul>
+          </div>
+        </div>
+        <div class="cvtile">
+          <button class="collapsible" type="button" aria-expanded="false" aria-controls="cv-software"><span>Creative Software</span><span class="arrow turn" aria-hidden="true">➜</span></button>
+          <div class="content" id="cv-software" hidden>
+            <h3>Design &amp; Layout</h3><ul><li>Adobe Creative Cloud (InDesign, Photoshop, Illustrator)</li><li>Figma</li><li>Canva</li><li>Glyph Mini</li></ul>
+            <h3>Motion &amp; Media</h3><ul><li>After Effects</li><li>Media Encoder</li><li>Procreate</li></ul>
+            <h3>Web &amp; Interactive</h3><ul><li>HTML, CSS, JavaScript</li><li>Shopify</li><li>AI-assisted prototyping</li></ul>
+          </div>
+        </div>
+        <div class="cvtile">
+          <button class="collapsible" type="button" aria-expanded="false" aria-controls="cv-clients"><span>Selected Clients</span><span class="arrow turn" aria-hidden="true">➜</span></button>
+          <div class="content" id="cv-clients" hidden>
+            <ul><li>Barbican</li><li>BBC</li><li>Camden Arts Centre</li><li>Folio Society</li><li>Free Word</li><li>gal-dem</li><li>Hachette</li><li>Hospice UK</li><li>Nike</li><li>ONCA Gallery</li><li>Photographer’s Gallery</li><li>Raven Row</li><li>Samsung</li><li>Science Gallery London</li><li>South London Gallery</li><li>Stonewall</li><li>Tate Britain</li><li>Tate Modern</li><li>Tinder</li><li>Vice</li><li>V&amp;A</li><li>Yorkshire Sculpture Park</li></ul>
+          </div>
+        </div>
+        <div class="cvtile">
+          <button class="collapsible" type="button" aria-expanded="false" aria-controls="cv-career"><span>Career</span><span class="arrow turn" aria-hidden="true">➜</span></button>
+          <div class="content" id="cv-career" hidden>
+            <div class="job"><div class="t"><span>Associate Lecturer</span><span>2013–present</span></div><p>University of Brighton, Ravensbourne, and UAL (MA Internet Equalities)</p></div>
+            <div class="job"><div class="t"><span>Studio Soof / Independent Designer</span><span>2015–present</span></div><p>Brand, identity, publications, exhibitions, signage, digital and illustration for clients in the UK and internationally.</p></div>
+            <div class="job"><div class="t"><span>Early Agency Experience</span><span>2013–2016</span></div>
+              <p>We Are Why (formerly Kent Lyons), 2014–16: brand, print and digital, plus campaign and identity work for culture and charity clients.<br>MediaZoo, 2014: editorial, animation and digital campaigns for Tesco, Barclays and others.<br>Cubo, 2013: branding, production and print for commercial and public sector clients.</p></div>
+          </div>
+        </div>
+        <div class="cvtile">
+          <button class="collapsible" type="button" aria-expanded="false" aria-controls="cv-grants"><span>Grants &amp; Awards</span><span class="arrow turn" aria-hidden="true">➜</span></button>
+          <div class="content" id="cv-grants" hidden>
+            <ul class="rows">
+              <li><span>Society of Authors Awards Judge</span><span>2025</span></li>
+              <li><span>Children’s Book Award</span><span>The Little Rebels, 2024</span></li>
+              <li><span>ALCS Educational Writers Award</span><span>Society of Authors, 2022</span></li>
+              <li><span>DYCP Grant</span><span>Arts Council England, 2021</span></li>
+              <li><span>Researcher in Residence</span><span>Tate Britain, Late at Tate, 2020</span></li>
+              <li><span>Grants for Individual Artists</span><span>Arts Foundation, 2018</span></li>
+              <li><span>Rising Stars Award</span><span>The Printing Charity, 2018</span></li>
+            </ul>
+          </div>
+        </div>
+        <div class="cvtile">
+          <button class="collapsible" type="button" aria-expanded="false" aria-controls="cv-edu"><span>Education</span><span class="arrow turn" aria-hidden="true">➜</span></button>
+          <div class="content" id="cv-edu" hidden>
+            <ul class="rows">
+              <li><span>PGCert Creative Arts</span><span>Ravensbourne University London</span></li>
+              <li><span>MA Book Design</span><span>University of Reading</span></li>
+              <li><span>BA Graphic Design</span><span>Ravensbourne University London</span></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- NOW & AI -->
+  <div class="view" id="v-now">
+    <div class="page">
+      <h1>Thoughts on AI</h1>
+      <span class="ptype">What I’m making at the moment, and where I think design is heading</span>
+      <div class="now">
+        <div class="box"><span class="kind">Community ✸</span>
+          <h3>The zine library</h3>
+          <p>A zine library + archive for zines, this grew out of my work with Brighton Zine Club and research interests. This archive is built to collect, catalogue and find zines, so independent publishing is easier for anyone to pick up.</p></div>
+        <div class="box"><span class="kind">Built with AI ➹</span>
+          <h3>Feedback tools for design students</h3>
+          <p>Browser-based feedback banks mapped to marking criteria to standardist feedback and streamline assesment proccesses for my module team (I lead a design module at Brighton Uni so designed a tool to help us).</p>
+          <p>AI did the build. The decisions about tone, structure and what the student reads first stayed with me.</p></div>
+        <div class="box"><span class="kind">Digital ➜</span>
+          <h3>Rosa Bridge Housing Co-op</h3>
+          <p>A room advert website and social content for a Brighton housing co-op, designed inside the co-op’s existing brand of hot pink, navy, heavy borders, Inter and Sansita. Working existing systems is a gift</p></div>
+        <div class="box"><span class="kind">This site ☻</span>
+          <h3>Made the same way</h3>
+          <p>I used css, JavaScript from a portfolio I made a few years ago (it won the end of year award at Brighton codebar) and the built on top using AI tools to pull together this site to apply for this job! Try the grid (press G), and you switch the colour theme or make it snow in the footer.</p></div>
+
+        <div class="full"><h4>Where I think design is heading</h4></div>
+        <div class="box"><span class="kind">01</span><h3>AI makes more options.</h3><p>When design can seem to be cheap to generate, being able to say “no, not that, and here’s why” becomes more valuable an that whats we offer as designers.</p></div>
+        <div class="box"><span class="kind">02</span><h3>Designers can build now.</h3><p>I love that I can prototype working tools in an afternoon. Its exciting to be able ship something and get there first.</p></div>
+        <div class="box"><span class="kind">03</span><h3>Understand the breif</h3><p>Clear thinking about audience and intent is what gets good output from an AI model, its just a tool</p></div>
+        <div class="box"><span class="kind">04</span><h3>It is still human.</h3><p>Generated work gets you only so far. A judgement call on tone is still core to our job.</p></div>
+      </div>
+    </div>
+  </div>
+</main>
+
+<footer>
+  <a class="button" href="https://www.instagram.com/soofiya/" rel="noopener">Instagram</a>
+  <button class="snowbtn" id="snowBtn" type="button" title="Let it snow" aria-pressed="false">❆</button>
+  <div class="fr">
+    <button class="dot blue" type="button" data-theme="blue" title="Blue mode" aria-label="Blue colour theme"></button>
+    <button class="dot pink" type="button" data-theme="pink" title="Pink mode" aria-label="Pink colour theme"></button>
+    <button class="dot orange" type="button" data-theme="orange" title="Orange mode" aria-label="Orange colour theme"></button>
+    <button class="button sm" id="gridBtn" type="button" aria-pressed="false">Grid</button>
+  </div>
+</footer>
+
+<div class="snow-container" id="snow" hidden aria-hidden="true"><div class="snowflake">❆</div><div class="snowflake">❅</div><div class="snowflake">❆</div><div class="snowflake">❅</div><div class="snowflake">❆</div><div class="snowflake">❅</div><div class="snowflake">❆</div><div class="snowflake">❅</div><div class="snowflake">❆</div><div class="snowflake">❅</div></div>
+
+<div class="lb" id="lb" hidden role="dialog" aria-modal="true" aria-label="Image viewer">
+  <div class="ctl"><div><button class="button sm" type="button" id="lbPrev">← Prev</button><button class="button sm" type="button" id="lbNext">Next →</button></div><button class="x" type="button" id="lbClose" aria-label="Close">✖</button></div>
+  <img id="lbImg" alt="">
+  <p class="cap" id="lbCap"></p>
+</div>
+<!--/BODY-->
+<script src="assets/main.js"></script>
+</body>
+</html>
