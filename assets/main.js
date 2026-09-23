@@ -66,7 +66,7 @@ var P = [
   outcome:["An animated video presentation of the Play Packs Report, communicating the project’s findings visually, with a narrated voiceover and a participant’s own voice."],
   video:"",
   notes:[["Client","Barbican, Communities and Neighbourhoods"],["Voiceover","Soofiya"],["Participant voiceover","Flo Lowe"],["Music","Scott Holmes"],["Skills","Frame-by-frame animation, storyboarding, narrative, information design"]],
-  imgs:[["PlayPacks_4.jpg","Animation still","w6"],["PlayPacks_1.jpg","Animation still","w2"],["PlayPacks_2.jpg","Animation still","w2"],["PlayPacks__3.jpg","Animation still","w2"] ["PlayPacks__5.jpg","Animation still","w2"] ["PlayPacks__6.jpg","Animation still","w2"]]},
+  imgs:[["PlayPacks_4.jpg","Animation still","w6"],["PlayPacks_1.jpg","Animation still","w2"],["PlayPacks_2.jpg","Animation still","w2"],["PlayPacks_3.jpg","Animation still","w2"], ["PlayPacks_5.jpg","Animation still","w2"], ["PlayPacks_6.jpg","Animation still","w2"]]},
 
 {id:"photographers-gallery", type:"Wayfinding Signage", client:"Photographer’s Gallery", title:"Gender Inclusive Signage",
   tags:["Wayfinding","Identity"], thumb:"p4_12.jpg", thumbFit:true,
@@ -97,7 +97,7 @@ var P = [
   dev:{text:["Sketches and development."],imgs:[["slg-2.jpg","Sketches and development","w3"],["slg-1.jpg","Development","w3"]]},
   outcome:["Mapping South London: a playful interactive map where visitors pinned their ideas, thoughts and experiences of South London."],
   notes:[["Commissioned by","South London Gallery"],["Photography","Sam Nightingale"]],
-  imgs:[["slg-1.jpg","The map in the gallery","w6"],["slg-4.jpg","Visitors pinning the map","w3"],["slg-5.jpg","Detail","w3"],["slg-4.jpg","Detail","w6"]["slg-3.jpg","Detail","w6"]]},
+  imgs:[["slg-1.jpg","The map in the gallery","w6"],["slg-4.jpg","Visitors pinning the map","w3"],["slg-5.jpg","Detail","w3"],["slg-4.jpg","Detail","w6"],["slg-3.jpg","Detail","w6"]]},
 
 {id:"making-space", type:"Publication Design", client:"Maslaha", title:"Making Space for Healing",
   tags:["Publishing","Illustration"], thumb:"p9_86.jpg",
