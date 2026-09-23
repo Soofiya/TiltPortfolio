@@ -66,7 +66,7 @@ var P = [
   outcome:["An animated video presentation of the Play Packs Report, communicating the project’s findings visually, with a narrated voiceover and a participant’s own voice."],
   video:"",
   notes:[["Client","Barbican, Communities and Neighbourhoods"],["Voiceover","Soofiya"],["Participant voiceover","Flo Lowe"],["Music","Scott Holmes"],["Skills","Frame-by-frame animation, storyboarding, narrative, information design"]],
-  imgs:[["PlayPacks_4.jpg","Animation still","w6"],["PlayPacks_.jpg","Animation still","w2"],["PlayPacks_2.jpg","Animation still","w2"],["PlayPacks__3.jpg","Animation still","w2"] ["PlayPacks__6.jpg","Animation still","w2"]]},
+  imgs:[["PlayPacks_4.jpg","Animation still","w6"],["PlayPacks_1.jpg","Animation still","w2"],["PlayPacks_2.jpg","Animation still","w2"],["PlayPacks__3.jpg","Animation still","w2"] ["PlayPacks__5.jpg","Animation still","w2"] ["PlayPacks__6.jpg","Animation still","w2"]]},
 
 {id:"photographers-gallery", type:"Wayfinding Signage", client:"Photographer’s Gallery", title:"Gender Inclusive Signage",
   tags:["Wayfinding","Identity"], thumb:"p4_12.jpg", thumbFit:true,
@@ -110,9 +110,9 @@ var P = [
   imgs:[["p9_86.jpg","Cover pattern","w6"],["p9_88.jpg","Spread","w3"],["p9_85.jpg","Spread","w3"],["p9_87.jpg","Spread","w3"],["p9_89.jpg","Spread","w3"]]},
 
 {id:"soof-sans", type:"Typeface Design", client:"Soof Sans", title:"Soof Sans",
-  tags:["Typography"], thumb:"soofsans.jpg", tester:true,
-  change:"My party trick: my own typeface, playful but legible. Type in the box on this page to try it.",
-  brief:["Create a working font with playful but clear, legible letterforms."],
+  tags:["Typography"], thumb:"soofsans1.jpg", tester:true,
+  change:"My party trick: my own typeface, making my own typefaces. Type in the box on this page to try it.",
+  brief:["Create a working font with playful and charachterful letterforms that still clear and legiable."],
   challenges:[],
   dev:{text:["From hand-drawn sketches to digitised letterforms."],imgs:[["soofsans_sketch.jpg","Letterform sketches","w3"],["soofsans_sketch2.jpg","Letterform sketches","w3"]]},
   outcome:["Soof Sans has upper and lower case and a clean, hand-lettered feel that can bring a poster or project to life."],
